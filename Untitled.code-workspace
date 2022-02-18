@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Amazon-GoogleProducts",
+			"path": "../../Downloads/Amazon-GoogleProducts"
+		},
+		{
+			"name": "amazon-google-products-entity-resolution",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
